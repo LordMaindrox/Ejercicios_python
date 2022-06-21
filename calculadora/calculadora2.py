@@ -80,7 +80,6 @@ while control == True:
             borrado3 = totalResta.clear()
             borrado4 = totalMultiplicar.clear()
             borrado5 = totalDividir.clear()
-
         elif opc == 7:
             control = False
             print("------------------------")
