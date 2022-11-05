@@ -11,7 +11,7 @@ print(my_set3)
 
 # LA INTERSECCIóN 
 # solo es dejas los elementos que tienen en comun entre ambos conjuntos
-#se ocupa el operador ampersan & y como resultado da el elemento que es común entre ambos sets
+#se ocupa el operador ampersand & y como resultado da el elemento que es común entre ambos sets
 
 my_set4 = my_set1 & my_set2
 print(my_set4)
@@ -32,6 +32,6 @@ print(my_set6)
 
 #es lo contrario de la interscción, es el resultado de quedarse con ambos sets
 #pero quitando los elementos que son comunes entre ambos 
-# usa el operador ^
+# usa el operador ^ llamado CARET
 my_set5 = my_set1 ^ my_set2
 print(my_set5)
