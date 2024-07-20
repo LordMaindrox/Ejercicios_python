@@ -33,10 +33,9 @@ def categoria():
 
 def modo_juego(categoria):
 
-
-def numero_secreto():
-  secreto = random.randint(1,100)
-  return secreto
+  def numero_secreto():
+    secreto = random.randint(1,100)
+    return secreto
 
 def turno_jugador(numero, vida):
  
