@@ -1,3 +1,4 @@
+
 cadena = "hola mundo hola mundo mundo JESSICA"
 contar = 0
 
@@ -16,3 +17,4 @@ for i in recuento:
             marca = marca+1
         diccionario[i] = marca
 print(diccionario)
+
